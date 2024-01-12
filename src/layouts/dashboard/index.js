@@ -80,6 +80,7 @@ function Default() {
               icon={{ color: "warning", component: <i className="ni ni-cart" /> }}
               percentage={{ color: "success", count: "+5%", text: "than last month" }}
             />
+            
           </Grid>
         </Grid>
         <Grid container spacing={3} mb={3}>
